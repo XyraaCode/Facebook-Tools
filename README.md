@@ -19,9 +19,8 @@ python run.py
 + Mempermudah Orang Jadi Stress
 + Update v1.0
 
-# Tampilan 
-![img](https://i.ibb.co/fD90b1G/Screenshot-2023-07-26-22-37-07-68-84d3000e3f4017145260f7618db1d683.jpg)
-
+# Results
+![img](https://i.ibb.co/h2sS6pN/New-Project-3-501912-A.png)
 # Thanks to
 ```
 XTC | Code Team
